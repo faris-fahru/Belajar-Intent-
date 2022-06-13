@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello Word</string>
+    <string name="move">Move</string>
+    <string name="this_is_destination_activity">This is Destination Activity</string>
+    <string name="move_with_data">Move With Data</string>
+    <string name="this_is_destination_activity_with_data_s">This is destination activity with data: %s</string>
+    <string name="name">Nur Muhammad Syaifuddin</string>
+    <string name="send">Send</string>
+</resources>
